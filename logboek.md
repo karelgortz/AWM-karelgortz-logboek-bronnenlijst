@@ -20,5 +20,10 @@
 * firebase toepassen op ons project : 0.5 uur
 * zoeken naar oplossing voor problemen : 3.5 uur
 
+## Week 6 - 3 uur
+* meer firebase tutorials gekeken - 3 uur
 
-# Totale duur : 23 uur
+## Week 7 - 2 uur
+* meeting - 2 uur 
+
+# Totale duur : 28 uur
