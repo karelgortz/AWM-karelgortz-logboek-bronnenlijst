@@ -26,4 +26,19 @@
 ## Week 7 - 2 uur
 * meeting - 2 uur 
 
-# Totale duur : 28 uur
+## Week 8 - 4 uur
+* verder aan firebase function gewerkt - 4 uur
+
+## Week 9 - paasvakantie
+
+## week 10 - paasvakantie
+
+## week 11 - international week
+
+## week 12 - 4 uur
+* implementatie firebase functions in de app (login) - 4 uur
+
+## week 13 - 2 uur
+* verder implementeren van andere firebase functions - 2 uur
+
+# Totale duur : 38 uur
