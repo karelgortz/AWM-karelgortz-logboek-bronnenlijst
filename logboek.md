@@ -41,4 +41,20 @@
 ## week 13 - 2 uur
 * verder implementeren van andere firebase functions - 2 uur
 
-# Totale duur : 38 uur
+## Week 14 - 10 uur
+* Werken aan project - 10 uur
+
+## Week 15 - 10 uur
+* Werken aan project - 10 uur
+
+## Week 16 - 10 uur
+* Werken aan project - 10 uur
+
+## Week 17 - 10 uur
+* Werken aan project - 15 uur
+
+## Week 18 - 17 uur
+* Werken aan project - 15 uur
+* Schrijven documentatie - 2 uur
+
+# Totale duur : 90 uur
